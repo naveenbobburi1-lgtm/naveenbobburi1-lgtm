@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there, I'm Naveen! 👋
 
-<!--
-**naveenbobburi1-lgtm/naveenbobburi1-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;Open+Source+Enthusiast;Lifelong+Learner;Full+Stack+Developer)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate software engineer with a love for coding, learning, and contributing to the open-source community. My journey in tech has been an exciting adventure, and I'm thrilled to share it with you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently working on cutting-edge technologies.
+- 🌱 I’m constantly learning and exploring new technologies to stay ahead of the curve.
+- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
+- 💬 Ask me about software development, cloud computing, and best coding practices.
+- 📫 How to reach me: [naveenbobburi60@gmail.com](mailto:naveenbobburi60@gmail.com)
+- ⚡ Fun fact: I love solving complex algorithms and playing chess in my free time.
+
+## 🛠️ Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+
+## 📊 GitHub Stats
+
+![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveenbobburi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenbobburi&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Naveenbobburi&theme=highcontrast&fire=DD2727&ring=DD2727&currStreakLabel=DD2727&hide_border=true)](https://git.io/streak-stats)
+
+
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Naveenbobburi&theme=onedark)
+
+## 🐍 Contributions
+
+![snake gif](https://github.com/Naveenbobburi/Naveenbobburi/blob/output/github-contribution-grid-snake.svg)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-bobburi)
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)](https://github.com/Naveenbobburi)
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+
+---
+
+⭐️ From [Naveen Bobburi](https://github.com/Naveenbobburi)
