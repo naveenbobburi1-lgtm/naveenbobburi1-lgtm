@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 - 🌱 I’m constantly learning and exploring new technologies to stay ahead of the curve.
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
 - 💬 Ask me about software development, cloud computing, and best coding practices.
-- 📫 How to reach me: [naveenbobburi60@gmail.com,naveenbobburi1@gmail.com](mailto:naveenbobburi60@gmail.com)(mailto:naveenbobburi1@gmail.com)
+- 📫 How to reach me: [naveenbobburi60@gmail.com](mailto:naveenbobburi60@gmail.com),[naveenbobburi1@gmail.com](mailto:naveenbobburi1@gmail.com)
 - ⚡ Fun fact: I love solving complex algorithms and playing chess in my free time.
 
 ## 🛠️ Languages and Tools
